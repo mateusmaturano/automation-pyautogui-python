@@ -22,4 +22,3 @@ To solve this, let's use pyautogui, a library for automating mouse and keyboard 
 
 When the e-mail is sent, I take control of the mouse again.
 
-Translated with www.DeepL.com/Translator (free version)
